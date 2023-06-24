@@ -21,5 +21,5 @@ This project marked a significant step forward in our growth. We took on the cha
 The main challenge we faced was implementing a more complex design while ensuring responsiveness. We embraced advanced CSS features like flexbox, grid, media queries, pseudo-classes, and pseudo-elements. Sass (SCSS) empowered us to write cleaner and more efficient code, enabling better organization and enhanced maintainability.
 
 We're proud to present this landing page as a testament to our continuous growth and commitment to delivering exceptional user experiences.
-[Figma design](https://www.figma.com/file/50zgLU65Mcd3MisFHMfLfx/POTR-POTS_FE-students?node-id=1760%3A281)
-[Link](https://Nikoramo.github.io/Potr-Pots-Landing/)
+  -[Figma design](https://www.figma.com/file/50zgLU65Mcd3MisFHMfLfx/POTR-POTS_FE-students?node-id=1760%3A281)
+  -[Link](https://Nikoramo.github.io/Potr-Pots-Landing/)

@@ -89,6 +89,10 @@
       font-size: 230px;
       line-height: 278px;
       letter-spacing: 0.15em;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
 
       color: transparent;
       -webkit-text-stroke: 0.68px $c-turquoise;
@@ -108,7 +112,7 @@
       }
 
       &-2 {
-        bottom: -10%;
+        bottom: -20%;
         right: -4%;
 
         @include onDesktop {
@@ -123,6 +127,10 @@
       height: 240px;
 
       margin: 0 auto 30px;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
 
       @include onTablet {
         width: 340px;
