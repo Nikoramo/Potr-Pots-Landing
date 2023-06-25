@@ -8,6 +8,11 @@
     margin: 0 auto;
     min-width: 320px;
     max-width: 1440px;
+    overflow-x: hidden;
+
+    &--with-menu {
+      overflow: hidden;
+    }
 
     &__menu {
       position: fixed;

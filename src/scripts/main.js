@@ -59,3 +59,11 @@ form.addEventListener('submit', (event) => {
     input.value = '';
   });
 });
+
+window.addEventListener('hashchange', () => {
+  if (window.location.hash === '#aside') {
+    document.body.classList.add('page__body--with-menu');
+  } else {
+    document.body.classList.remove('page__body--with-menu');
+  }
+});
